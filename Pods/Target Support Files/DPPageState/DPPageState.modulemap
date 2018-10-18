@@ -1,0 +1,6 @@
+framework module DPPageState {
+  umbrella header "DPPageState-umbrella.h"
+
+  export *
+  module * { export * }
+}

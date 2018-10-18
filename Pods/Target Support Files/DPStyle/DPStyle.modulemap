@@ -1,0 +1,6 @@
+framework module DPStyle {
+  umbrella header "DPStyle-umbrella.h"
+
+  export *
+  module * { export * }
+}

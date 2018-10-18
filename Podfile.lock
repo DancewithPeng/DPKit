@@ -1,0 +1,32 @@
+PODS:
+  - DPFlowCoordinator (1.0.5)
+  - DPLayout (1.0.2)
+  - DPLog (1.0)
+  - DPPageState (1.0)
+  - DPStyle (1.0.1)
+
+DEPENDENCIES:
+  - DPFlowCoordinator
+  - DPLayout
+  - DPLog
+  - DPPageState
+  - DPStyle
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - DPFlowCoordinator
+    - DPLayout
+    - DPLog
+    - DPPageState
+    - DPStyle
+
+SPEC CHECKSUMS:
+  DPFlowCoordinator: d7c92d5a25213456e9d8260a76e82f0ea4001eb6
+  DPLayout: 2c13ff21bebc566abf88d9f8b56a82f21211e26a
+  DPLog: 51e066c48a105795c8bbe486454a7da93ee9cab3
+  DPPageState: c92c98d1b32137031e1fabf8f7296e64b2ecef2e
+  DPStyle: fecc333cd2c91befcb2b8b7f6a16a576b3c08887
+
+PODFILE CHECKSUM: 7e2be4077bf34a8def8f23a2164f46faae6dc6e6
+
+COCOAPODS: 1.5.3
