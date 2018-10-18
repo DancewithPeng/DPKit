@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
   spec.name          = 'DPKit'
   spec.version       = '1.0'
-  spec.license       = { :type => 'MIT' }
+  spec.license       = { :type => 'MIT', :file => "LICENSE" }
   spec.homepage      = 'https://github.com/DancewithPeng/DPKit'
   spec.authors       = { 'DancewithPeng' => 'dancewithpeng@gmail.com' }
   spec.summary       = '工具集合'
@@ -11,7 +11,7 @@ Pod::Spec.new do |spec|
   spec.swift_version = '4.0'
 
   spec.source_files  = 'DPKit/**/*.swift', 'DPKit/**/*.{h,m}'
-  
+
   spec.dependency 'DPFlowCoordinator'
   spec.dependency 'DPStyle'
   spec.dependency 'DPLayout'
