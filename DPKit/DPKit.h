@@ -15,9 +15,3 @@ FOUNDATION_EXPORT double DPKitVersionNumber;
 FOUNDATION_EXPORT const unsigned char DPKitVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <DPKit/PublicHeader.h>
-
-#import <DPStyle/DPStyle.h>
-#import <DPFlowCoordinator/DPFlowCoordinator.h>
-#import <DPLayout/DPLayout.h>
-#import <DPLog/DPLog.h>
-#import <DPPageState/DPPageState.h>
